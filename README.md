@@ -1,7 +1,7 @@
 <h1 align="center"> Bonjour 👋, I'm Ganesh Palve</h1>
 <h3 align="left">Curious about coding, entrepreneurship, teaching, blog writing, automation, team work and so on.</h3> <br>
 
-- 🔭 I’m currently working on [Indian Railways Feature project of RailPost Gatishakti Express.](https://iranalytics.in:3080)
+- 🔭 I’m currently working on [Indian Railways Feature project of RailPost Gatishakti Express.](http://iranalytics.in:3080)
 
 - 🌱 I’m currently learning **MLOps , Python , ChatGPT**
 
