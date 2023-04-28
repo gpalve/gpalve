@@ -5,7 +5,7 @@
 
 - 🚆 Building the machine learning model for the in-depth technical support to Indina Railwaymen.<b>[text-da-vinci-railtech-001] </b>
 
-- 🌱 I’m currently learning **MLOps , Python , ChatGPT**
+- 🌱 I’m currently working on **MLOps , Python , RailGPT**. Loving **React,TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gpalve/](https://github.com/gpalve/)
 
