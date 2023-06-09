@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gpalve/](https://github.com/gpalve/)
 
-- 📝 I regularly write articles on [https://sigblog.mpes.co.in](https://sigblog.mpes.co.in)
+- 📝 I regularly post articles on [https://twitter.com/gpalve9](https://twitter.com/gpalve9)
 
 - 💬 Ask me about **laravel, PHP, Python, Socketio, Android Apps, Flutter**
 
