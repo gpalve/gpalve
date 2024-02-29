@@ -1,7 +1,7 @@
 <h1 align="center"> Bonjour 👋, I'm Ganesh Palve</h1>
 <h3 align="left">Curious about coding, entrepreneurship, teaching, blog writing, automation, team work and so on.</h3> <br>
 
-- 🔭  - I’m currently working on [Indian Railways Feature project of RailPost Gatishakti Express.](http://iranalytics.in:3080). <br>
+- 🔭  - I’m currently working on [Indian Railways Analytics for continual Improvment](http://iranalytics.in). <br>
 
 - 🚆 Building the machine learning model for the in-depth technical support to Indina Railwaymen.<b>[text-da-vinci-railtech-001] </b>
 
