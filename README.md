@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/gpalve9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gpalve9" height="30" width="40" /></a>
 </p>
-<h3 align="left">AWS Certifications</h3>
+<h3 align="left">AWS Cloud Quest</h3>
 
 ![image](https://github.com/gpalve/gpalve/assets/45437458/7dcd0fa2-92e9-44fa-a56c-1d4ea2e92d1b)
 
